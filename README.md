@@ -5,6 +5,12 @@ I am a Frontend Developer with 4 years of experience and a background in **Syste
 
 ---
 
+### 🎓 Education & Background
+- **Certified System & Network Administrator**
+- Trained under the **Cisco CCNA** program (Routing & Switching).
+- Deep understanding of networking: TCP/IP, DNS, HTTP/S, Load Balancing.
+- Thesis: Implementation of high-availability clusters using **Kubernetes**.
+
 ### 🛠 Tech Stack
 
 **Frontend & Logic:**
@@ -31,15 +37,6 @@ I am a Frontend Developer with 4 years of experience and a background in **Syste
 
 * **[Fia.li](https://fia.li)** — Full-cycle deployment: Next.js app containerized and deployed via Docker Swarm & Kubernetes.
 Currently offline due to large infrastructure =(
----
-
-### 📊 Github Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИК]&layout=compact&theme=radical&langs_count=6" />
-</p>
-
 ---
 
 ### 📫 How to reach me:
