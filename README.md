@@ -1,7 +1,7 @@
 # Hi there, I'm Igor 👋
 ### Frontend Engineer | React & Next.js Specialist | Infrastructure Enthusiast
 
-I am a Frontend Developer with 3 years of experience and a background in **System & Network Administration**. I build high-performance web applications with complex animations and "production-ready" infrastructure.
+I am a Frontend Developer with 4 years of experience and a background in **System & Network Administration**. I build high-performance web applications with complex animations and "production-ready" infrastructure.
 
 ---
 
