@@ -41,6 +41,3 @@ Currently offline due to large infrastructure =(
 
 ### 📫 How to reach me:
 - **Telegram:** [@igor_js](https://t.me/igor_js)
-
----
-*"My thesis was on Kubernetes, but my heart is in the UI."*
