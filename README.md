@@ -40,4 +40,4 @@ Currently offline due to large infrastructure =(
 ---
 
 ### 📫 How to reach me:
-- **Telegram:** [@igor_js](https://t.me/igor_js)
+- **Telegram:** [@igor_js1](https://t.me/igor_js1)
